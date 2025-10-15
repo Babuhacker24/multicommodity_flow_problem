@@ -1,0 +1,12 @@
+name: HACER NUEVO ENVIRONMENT
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - python
+  - pytorch 
+  - numpy 
+  - matplotlib
+  ESTAS ESTÁN COMO EJEMPLO, REVISAR
+ 
+  
